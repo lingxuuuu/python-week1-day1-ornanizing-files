@@ -1,0 +1,23 @@
+C:\Users\lingx\python\assignments>mkdir python_stack
+
+C:\Users\lingx\python\assignments>mkdir I--my_environments
+
+C:\Users\lingx\python\assignments>mkdir I--_python
+
+C:\Users\lingx\python\assignments>cd I--_python
+
+C:\Users\lingx\python\assignments\I--_python>mkdir I--python_fundamentals
+
+C:\Users\lingx\python\assignments\I--_python>mkdir I--OOP
+
+C:\Users\lingx\python\assignments\I--_python>cd..
+
+C:\Users\lingx\python\assignments>mkdir I--django
+
+C:\Users\lingx\python\assignments>cd I--django
+
+C:\Users\lingx\python\assignments\I--django>mkdir I--django_fundamentals
+
+C:\Users\lingx\python\assignments\I--django>mkdir I--django-orm
+
+C:\Users\lingx\python\assignments\I--django>mkdir I--django_fullstack
